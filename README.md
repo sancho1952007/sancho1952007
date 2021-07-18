@@ -20,6 +20,6 @@
 
 ***Featured Projects:***
 
-[![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Eye-Apple)](https://github.com/sancho1952007) [![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Text_View)](https://github.com/sancho1952007/Text_View)
+[![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Eye-Apple)](https://github.com/sancho1952007/Eye-Apple) [![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Text_View)](https://github.com/sancho1952007/Text_View)
 
 **Thanks For Viewing [My Profile](https://github.com/sancho1952007) And Follow Me For Updates...**
