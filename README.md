@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sancho1952007&label=Profile%20views&color=0e75b6&style=flat-square" alt="sancho1952007" /> </p>
 <a href="https://github.com/sancho1952007"><img src="https://img.shields.io/github/followers/sancho1952007?label=Followers&color=blue"></a>
 
-- 🔭 I’m currently working on a **OS (Operating System)**
+<img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/laptop.gif" width="30"> I’m currently working on a **OS (Operating System)**
 
-- 🌱 I’m currently learning **Html, css, javascript**
+<img src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" width="30"> I’m currently learning **Html, css, javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
