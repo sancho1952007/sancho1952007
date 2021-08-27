@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.io/u/sancho1952007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sancho1952007" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/sancho1952007" target="blank"><img align="center" src="https://i.pinimg.com/originals/d6/5a/49/d65a493e2f3b72e3eec0526559774abd.png" alt="sancho1952007" height="30" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCA_3t4pPc9GRIFiP86kRD2Q" target="blank"><img align="center" src="https://c.tenor.com/u6V2G11r3r4AAAAi/live-on-air.gif" alt="codingwithsancho" height="40" width="40" /></a>
 </p>
 
