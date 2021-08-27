@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sancho</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/s4yHddWuaDIAAAAj/glasses-shades-on.gif" width="40">, I'm Sancho</h1>
 <h3 align="center">A Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sancho1952007&label=Profile%20views&color=0e75b6&style=flat-square" alt="sancho1952007" /> </p>
