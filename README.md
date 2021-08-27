@@ -2,7 +2,7 @@
 <h3 align="center">A Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sancho1952007&label=Profile%20views&color=0e75b6&style=flat-square" alt="sancho1952007" /> </p>
-[![img](https://img.shields.io/github/followers/sancho1952007?label=Followers&color=blue)](https://github.com/sancho1952007)
+<a href="https://github.com/sancho1952007"><img src="https://img.shields.io/github/followers/sancho1952007?label=Followers&color=blue"></a>
 
 - 🔭 I’m currently working on a **OS (Operating System)**
 
