@@ -18,6 +18,8 @@
 
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=sancho1952007) ![](https://github-readme-stats.vercel.app/api?username=sancho1952007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=sancho1952007&theme=dark)
+
 ***Featured Projects:***
 
 [![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Eye-Apple)](https://github.com/sancho1952007/Eye-Apple) [![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Text_View)](https://github.com/sancho1952007/Text_View)
