@@ -19,17 +19,11 @@
 
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=sancho1952007) ![](https://github-readme-stats.vercel.app/api?username=sancho1952007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=sancho1952007&theme=dark)
 ![trophies](https://github-profile-trophy.vercel.app/?username=sancho1952007&no-bg=false&theme=darkhub&row=25&column=5&margin-w=5&margin-h=5)
 
 
 ***Featured Projects:***
 
 [![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Eye-Apple)](https://github.com/sancho1952007/Eye-Apple) [![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Auto-Code-Compiler)](https://github.com/sancho1952007/Auto-Code-Compiler)
-
-<br>
-
-## 😂 Here is a random joke that'll make you laugh!  
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 **Thanks For Viewing [My Profile](https://github.com/sancho1952007) And Follow Me For Updates...**
