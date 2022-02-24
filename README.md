@@ -4,9 +4,9 @@
 <p align="left"> Why <img src="https://komarev.com/ghpvc/?username=sancho1952007&label=Profile%20views&color=0e75b6&style=flat-square" alt="sancho1952007" /> And So Less Followers? </p>
 <a href="https://github.com/sancho1952007"><img src="https://img.shields.io/github/followers/sancho1952007?label=Followers&color=blue"></a>
 
-<img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/laptop.gif" width="30"> I’m currently working on a **OS (Operating System)**
+<img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/laptop.gif" width="30"> I’m currently working on a **OS (Operating System) & Also Working On A Social Media Platform!**
 
-<img src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" width="30"> I’m currently learning **Html, css, javascript**
+<img src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" width="30"> I’m currently learning **Node JS!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,7 @@
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=sancho1952007&no-bg=false&theme=darkhub&row=25&column=5&margin-w=5&margin-h=5)
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=sancho1952007&theme=redical)
 
 ***Featured Projects:***
 
