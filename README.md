@@ -1,30 +1,66 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/s4yHddWuaDIAAAAj/glasses-shades-on.gif" width="40">, I'm Sancho</h1>
-<h3 align="center">A Developer from India</h3>
+<h2 align="left">Hi, I'm Sancho!<br><br>A Full Stack Developer, Cyber Security Researcher & Tech Influencer from India!</h2>
 
-<p align="left"> Why <img src="https://komarev.com/ghpvc/?username=sancho1952007&label=Profile%20views&color=0e75b6&style=flat-square" alt="sancho1952007" /> And So Less Followers? </p>
-<a href="https://github.com/sancho1952007"><img src="https://img.shields.io/github/followers/sancho1952007?label=Followers&color=blue"></a>
+###
 
-<img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/laptop.gif" width="30"> I’m currently working on a **OS (Operating System) & Also Working On A Social Media Platform!**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sancho1952007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sancho1952007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" width="30"> I’m currently learning **Node JS!**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.io/u/sancho1952007" target="blank"><img align="center" src="https://i.pinimg.com/originals/d6/5a/49/d65a493e2f3b72e3eec0526559774abd.png" alt="sancho1952007" height="30" width="60" /></a>
-<a href="https://www.youtube.com/channel/UCA_3t4pPc9GRIFiP86kRD2Q" target="blank"><img align="center" src="https://c.tenor.com/u6V2G11r3r4AAAAi/live-on-air.gif" alt="codingwithsancho" height="40" width="40" /></a>
-</p>
+<img align="right" height="150" src="https://gifsec.com/wp-content/uploads/2022/10/rickroll-gif-1.gif"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+###
 
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=sancho1952007) ![](https://github-readme-stats.vercel.app/api?username=sancho1952007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+</div>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=sancho1952007&no-bg=false&theme=darkhub&row=25&column=5&margin-w=5&margin-h=5)
+###
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=sancho1952007&theme=redical)
+<div align="left">
+  <a href="mailto:sancho@sg-app.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sancho-godinho-a1b58127a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/sanchogodinho" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-***Featured Projects:***
+###
 
-[![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Eye-Apple)](https://github.com/sancho1952007/Eye-Apple) [![img](https://github-readme-stats.vercel.app/api/pin/?username=sancho1952007&repo=Auto-Code-Compiler)](https://github.com/sancho1952007/Auto-Code-Compiler)
+<br clear="both">
 
-**Thanks For Viewing [My Profile](https://github.com/sancho1952007) And Follow Me For Updates...**
+<img src="https://raw.githubusercontent.com/sancho1952007/sancho1952007/gifs/snake.svg" alt="Snake animation" />
+
+###
+
+## Thanks For Viewing My Profile, Check Out My Portfolio: [https://sancho1952007.github.io/](https://sancho1952007.github.io/)
