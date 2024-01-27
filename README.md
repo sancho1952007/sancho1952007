@@ -53,6 +53,10 @@
   <a href="https://x.com/sanchogodinho" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <br>
+  <a href="https://github.com/sanchogodinhoapps" target="_blank">
+    <img src="https://github.com/sancho1952007/sancho1952007/assets/73981314/575bdfd7-cd85-4bd1-a94e-22e948dc7f42">
+  </a>
 </div>
 
 ###
