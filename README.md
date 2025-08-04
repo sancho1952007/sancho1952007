@@ -10,7 +10,7 @@
 </div>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,bun,bash,python,ubuntu,vscode,jquery,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,bun,bash,python,ubuntu,vscode,jquery,github,markdown" />
 </div>
 
 ###
@@ -20,4 +20,7 @@
 ###
 
 Thank You For Viewing My Profile, Check Out My Website: [https://sancho1952007.github.io/](https://sancho1952007.github.io/)  
+
+###
+
 Check Out Postily 👉 https://postily.social/
