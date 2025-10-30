@@ -1,7 +1,7 @@
 <img src="./banner.png" />
 
 Profile Highlights:  
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=sancho1952007&bg_color=141321&color=a9fef8&line=FFFFFF&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=sancho1952007&bg_color=141321&color=a9fef8&line=FFFFFF&point=FFFFFF&hide_border=true&title_color=fe438e" />
 
 ###
 
