@@ -6,12 +6,14 @@ Profile Highlights:
 ###
 
 <div>
-  <img src="https://github-readme-stats-sigma-red-14.vercel.app/api?username=sancho1952007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-red-14.vercel.app/api?username=sancho1952007&hide_title=false&hide_rank=false&card_width=500&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats-sigma-red-14.vercel.app/api/top-langs?username=sancho1952007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-red-14.vercel.app/api/top-langs?username=sancho1952007&locale=en&hide_title=false&layout=compact&card_width=510&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
-  <img align="right" height="150" src="https://gifsec.com/wp-content/uploads/2022/10/rickroll-gif-1.gif"  />
+  <img height="150" src="https://gifsec.com/wp-content/uploads/2022/10/rickroll-gif-1.gif"  />
 </div>
+
+<p align="right">You got RickRolled XD^&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
 
 ###
 
