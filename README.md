@@ -5,14 +5,6 @@ Profile Highlights:
 
 ###
 
-<div>
-  <img src="https://github-readme-stats-sigma-red-14.vercel.app/api?username=sancho1952007&hide_title=false&hide_rank=false&card_width=500&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats-sigma-red-14.vercel.app/api/top-langs?username=sancho1952007&locale=en&hide_title=false&layout=compact&card_width=510&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-###
-
 <div align="left">
   Languages & Tools I know: <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,bun,typescript,nodejs,react,bash,python,ubuntu,vscode,jquery,git,github,markdown,docker&perline=16" />
