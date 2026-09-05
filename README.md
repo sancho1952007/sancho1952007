@@ -18,4 +18,4 @@ Some stats:
 ###
 
 Check out My Website:
-[![](https://svg-banners.vercel.app/api?type=glitch&text1=sancho.sg-app.com&width=1000&height=100)](https://sancho1952007.github.io/?utm_source=github-sancho-readme)
+[![](https://svg-banners.vercel.app/api?type=glitch&text1=sancho.sg-app.com&width=1000&height=100)](https://sancho.sg-app.com/?utm_source=github-sancho-readme)
