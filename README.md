@@ -5,17 +5,17 @@
 ###
 
 <div align="left">
-  Some Languages & Tools I know: <br/>
+  👨‍💻 Some of the things that I know: <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,bun,typescript,nodejs,react,bash,python,ubuntu,vscode,jquery,git,github,markdown,docker&perline=16" />
   <br/>
-  <i>(Can't fit everything here 🥲)</i>
+  <a href="https://sancho.sg-app.com/?utm_source=github-sancho-readme">...</a>
 </div>
 
 ###
-Some stats:  
+
+📈 Some stats:  
 ![](https://github-stats-alpha.vercel.app/api?username=sancho1952007&cc=000&tc=fff&ic=fff&bc=000)
 
 ###
 
-Check out My Website:
-[![](https://svg-banners.vercel.app/api?type=glitch&text1=sancho.sg-app.com&width=1000&height=100)](https://sancho.sg-app.com/?utm_source=github-sancho-readme)
+  Find more about me @ <a href="https://sancho.sg-app.com/?utm_source=github-sancho-readme"><img width="200px" src="https://svg-banners.vercel.app/api?type=glitch&text1=sancho.sg-app.com&width=1000&height=100"/></a>
