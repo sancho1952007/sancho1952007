@@ -1,19 +1,21 @@
-<img src="./banner.png" />
+![](https://rest.ishanoshada.com/svg/banner/dev4/Sancho)
 
-Profile Highlights:  
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=sancho1952007&bg_color=141321&color=a9fef8&line=FFFFFF&point=FFFFFF&hide_border=true&title_color=fe438e" />
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%3E+A+Software+Developer;%3E+A++Cybersecurity+Researcher;%3E+A+Tech+Enthusiast;%3E+An+Investor)
 
 ###
 
 <div align="left">
-  Languages & Tools I know: <br/>
+  Some Languages & Tools I know: <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,bun,typescript,nodejs,react,bash,python,ubuntu,vscode,jquery,git,github,markdown,docker&perline=16" />
   <br/>
   <i>(Can't fit everything here 🥲)</i>
 </div>
 
 ###
+Some stats:  
+![](https://github-stats-alpha.vercel.app/api?username=sancho1952007&cc=000&tc=fff&ic=fff&bc=000)
 
-Major Websites:  
-Check out My Website 👉 [https://sancho1952007.github.io/](https://sancho1952007.github.io/?utm_source=github-sancho-readme)  
-Check Out Postily 👉 [https://postily.social/](https://postily.social/?utm_source=github-sancho-readme)
+###
+
+Check out My Website:
+[![](https://svg-banners.vercel.app/api?type=glitch&text1=sancho1952007.sg-app.com&width=1400&height=100)](https://sancho1952007.github.io/?utm_source=github-sancho-readme)
