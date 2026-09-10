@@ -18,4 +18,4 @@
 
 ###
 
-  Find more about me @ <a href="https://sancho.sg-app.com/?utm_source=github-sancho-readme"><img width="200px" src="https://svg-banners.vercel.app/api?type=glitch&text1=sancho.sg-app.com&width=1000&height=100"/></a>
+  Find more about me @ [sancho.sg-app.com](https://sancho.sg-app.com?utm_source=github-sancho-readme)
